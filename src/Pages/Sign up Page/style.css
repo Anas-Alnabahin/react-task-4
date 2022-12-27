@@ -1,0 +1,101 @@
+.signup-div {
+  display: flex;
+  color: white;
+}
+
+.first-half {
+  width: 642px;
+  height: 1024px;
+  background-image: url(../../assets/bg1.png);
+}
+
+.first-half-inner-div {
+  height: 100%;
+  width: 100%;
+  background-color: #1565d8;
+  opacity: 0.9;
+  display: flex;
+  flex-direction: column;
+  padding-left: 82px;
+  padding-top: 60px;
+}
+
+#logo {
+  width: 106px;
+  height: 57px;
+}
+
+#dots {
+  width: 60px;
+  height: 56px;
+  margin-left: 320px;
+}
+
+.quate-div {
+  margin-top: 100px;
+  position: relative;
+}
+
+.quate-div span {
+  font-family: "Gayathri";
+  font-weight: 700;
+  font-size: 96px;
+  color: #00daf7;
+}
+
+.quate-div p {
+  width: 443px;
+  height: 164px;
+  font-weight: 420;
+  font-size: 20px;
+  line-height: 38px;
+}
+
+.quate-div h4 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 38px;
+  margin-top: 59px;
+}
+
+#corner {
+  position: absolute;
+  right: 124.5px;
+}
+
+.second-half {
+  width: 60%;
+  padding: 80px;
+  color: #8692a6;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.sec-half-span {
+  color: #8692a6;
+  display: block;
+  margin-bottom: 80px;
+  align-self: flex-start;
+}
+
+.sec-half-inner-div {
+  width: 75%;
+}
+
+.sec-half-inner-div h2 {
+  color: black;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.sec-half-inner-div p {
+  width: 411px;
+  height: 56px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 10px;
+}

@@ -1,0 +1,40 @@
+.login-div {
+  display: flex;
+}
+
+.left-div {
+  padding: 80px;
+}
+
+#q-s {
+  color: #696f79;
+}
+
+#bg2 {
+  margin-left: 220px;
+}
+
+.right-div {
+  padding-top: 145px;
+  margin-left: 115px;
+}
+
+.right-div h2 {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 51px;
+}
+
+.right-div p {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #8692a6;
+  margin-top: 12px;
+}
+
+.icons-div {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+}
